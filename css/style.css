@@ -38,9 +38,9 @@ html {
 }
 
 body {
-     color: #666666;
+     color: #000000;
      font-size: 14px;
-     font-family: 'Poppins', sans-serif;
+     font-family:Toyota Display;
      line-height: 1.80857;
      font-weight: normal;
 }
@@ -74,17 +74,17 @@ h6 {
 
 h1 {
      font-size: 24px;
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
 }
 
 h2 {
      font-size: 22px;
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
 }
 
 h3 {
      font-size: 18px;
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
 }
 
 h4 {
@@ -174,7 +174,7 @@ img {
 .lead {
      font-size: 18px;
      line-height: 30px;
-     color: #767676;
+     /* color: #767676; */
      margin: 0;
      padding: 0;
 }
@@ -363,7 +363,7 @@ button {
 }
 
 .text-bg strong {
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
      font-size: 40px;
      line-height: 50px;
      color: #fff;
@@ -372,7 +372,7 @@ button {
 }
 
 .text-bg span {
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
      color: #f6d601;
      font-size: 40px;
      line-height: 50px;
@@ -389,7 +389,7 @@ button {
 }
 
 .text-bg a {
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
      font-size: 17px;
      background-color: #fff;
      color: #000;
@@ -446,7 +446,7 @@ button {
 }
 
 .car .titlepage span {
-     color: #23262d;
+     /* color: #23262d; */
      font-size: 17px;
      line-height: 28px;
 }
@@ -520,7 +520,7 @@ button {
 }
 
 .bestCar .main_form .find_btn {
-     font-family: 'Righteous', cursive;
+     font-family:Toyota Display;
      font-size: 17px;
      transition: ease-in all 0.5s;
      background-color: #000;
@@ -558,7 +558,7 @@ button {
 }
 
 .current {
-     color: #4d4d4f;
+     /* color: #4d4d4f; */
      font-size: 17px;
 }
 
@@ -568,7 +568,7 @@ button {
 }
 
 .nice-select .list {
-     background-color: #dcdcdc;
+     /* background-color: #dcdcdc; */
      transition: ease-in all 0.3s;
 }
 
@@ -749,7 +749,7 @@ button {
 }
 
 .footer {
-     font-family: Poppins;
+     font-family:Toyota Display;
      background: #fff;
      padding-top: 50px;
      text-align: center;
